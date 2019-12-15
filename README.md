@@ -10,3 +10,5 @@ To build
 To run
 ------
     java -cp target/helloworld-1.0.jar com.coveros.demo.helloworld.HelloWorld
+
+[![Run on Repl.it](https://repl.it/badge/github/danielcregg/helloworld)](https://repl.it/github/danielcregg/helloworld)
